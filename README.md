@@ -20,8 +20,8 @@ This project combines computer vision with gaming to create an interactive exper
 1. Clone this repository to your local machine.
 2. Open folder in VS Code or any related IDE.
 3. Install the required dependencies.
-	 ```bash
-pip install opencv-python mediapipe pyautogui pygame
+	```bash
+	pip install opencv-python mediapipe pyautogui pygame
 
 5. Run the main script.
    ```bash

@@ -1,4 +1,4 @@
-# Eye Controlled Mouse with StarWars
+# Eye Mouse with StarWars
 
 This project combines computer vision with gaming to create an interactive experience where users can control the mouse cursor using their eyes. Additionally, it includes a fun bee game built using Pygame, showcasing the capabilities of the eye-controlled mouse.
 

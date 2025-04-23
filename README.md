@@ -36,13 +36,14 @@ This project combines computer vision with gaming to create an interactive exper
 1. Create a virtual environment for Python 3.8.10
    ```bash
    python -m venv venv
+   
 2. Activate the virtual environment.
    ```bash
    # Windows
-  venv\Scripts\activate
-
+   venv\Scripts\activate
    # Linux/macOS
    source venv/bin/activate
+   
 3. Then run the code.
 
 ## Contributing
